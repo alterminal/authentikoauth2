@@ -1,0 +1,7 @@
+.env*
+.env.yaml
+go-sdk/
+.DS_Store
+env.yaml
+config
+*_test.go
