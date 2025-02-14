@@ -1,4 +1,4 @@
-package authentiksso
+package authentikoauth2
 
 import (
 	"bytes"
